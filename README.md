@@ -89,7 +89,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 from utils.token_engine import TokenEngine
 
 # Initialize engine
-engine = TokenEngine('data/transactions.json')
+engine = TokenEngine('../data/transactions.json')
 
 # Issue tokens
 issuance = engine.issue_tokens(
