@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data & Logs
+*.csv
+*.json
+*.log
+data/*.csv
+data/*.json
+logs/
+audit_logs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook temp files
+*.bak
+*.swp
