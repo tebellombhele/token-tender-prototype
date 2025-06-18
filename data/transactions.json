@@ -1327,5 +1327,180 @@
     "tokens_returned": 2924999.999999999,
     "reason": "Quality standards not met",
     "timestamp": "2025-06-18T11:13:05.230705"
+  },
+  {
+    "transaction_id": "080b0aed-fd8c-4f5a-bb49-3a45983b3651",
+    "type": "TOKEN_ISSUANCE",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "tokens_issued": "100000000",
+    "tokens_remaining": 0,
+    "project_scope": [
+      "Construction Materials",
+      "Professional Services",
+      "Equipment",
+      "Labour"
+    ],
+    "timestamp": "2025-06-18T11:49:39.821198",
+    "status": "REDEEMED"
+  },
+  {
+    "transaction_id": "09f51100-9d8d-41d6-995e-8a3e8b781200",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 15000000,
+    "category": "Construction Materials",
+    "milestone": "Foundation Work",
+    "description": "Concrete, steel reinforcement, foundation materials",
+    "timestamp": "2025-06-18T11:49:39.823871"
+  },
+  {
+    "transaction_id": "34bb2589-5675-46b2-9436-5cbd6d40a98b",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 8000000,
+    "category": "Professional Services",
+    "milestone": "Foundation Work",
+    "description": "Engineering consultancy, site supervision",
+    "timestamp": "2025-06-18T11:49:39.825731"
+  },
+  {
+    "transaction_id": "5552c7d2-8f66-4ca4-9912-05697bd0c5cf",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 5000000,
+    "category": "Equipment",
+    "milestone": "Foundation Work",
+    "description": "Excavation equipment rental",
+    "timestamp": "2025-06-18T11:49:39.827553"
+  },
+  {
+    "transaction_id": "77fbd3c2-17a3-4ece-9a10-d35653d331b8",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 7000000,
+    "category": "Labour",
+    "milestone": "Foundation Work",
+    "description": "Foundation construction team",
+    "timestamp": "2025-06-18T11:49:39.829363"
+  },
+  {
+    "transaction_id": "84a6f09e-6e88-4511-8c3a-27f637790f04",
+    "type": "MILESTONE_VERIFICATION",
+    "tender_id": "T001",
+    "milestone": "Foundation Work",
+    "quality_score": 85,
+    "passed": true,
+    "timestamp": "2025-06-18T11:49:39.831104"
+  },
+  {
+    "transaction_id": "f43cb244-3f03-4390-b73e-4fc28d0f0ce1",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 20000000,
+    "category": "Construction Materials",
+    "milestone": "Structural Work",
+    "description": "Steel beams, concrete, building materials",
+    "timestamp": "2025-06-18T11:49:39.832936"
+  },
+  {
+    "transaction_id": "941b8845-37bd-43b3-9b08-052fb76620d8",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 10000000,
+    "category": "Professional Services",
+    "milestone": "Structural Work",
+    "description": "Structural engineering, project management",
+    "timestamp": "2025-06-18T11:49:39.834748"
+  },
+  {
+    "transaction_id": "371650c2-50a6-41ab-90b8-1d8ed080a8cc",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 8000000,
+    "category": "Equipment",
+    "milestone": "Structural Work",
+    "description": "Cranes, construction equipment",
+    "timestamp": "2025-06-18T11:49:39.836575"
+  },
+  {
+    "transaction_id": "9ec364c9-753a-4bce-9ba9-3adbad6ea1db",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 12000000,
+    "category": "Labour",
+    "milestone": "Structural Work",
+    "description": "Skilled construction workers",
+    "timestamp": "2025-06-18T11:49:39.838409"
+  },
+  {
+    "transaction_id": "5e786ec1-42f2-45c9-96db-bee4766fc580",
+    "type": "MILESTONE_VERIFICATION",
+    "tender_id": "T001",
+    "milestone": "Structural Work",
+    "quality_score": 92,
+    "passed": true,
+    "timestamp": "2025-06-18T11:49:39.840197"
+  },
+  {
+    "transaction_id": "64842fcb-388e-4a5d-8af0-1051203272ec",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 8000000,
+    "category": "Construction Materials",
+    "milestone": "Interior Finishing",
+    "description": "Interior finishes, fixtures, fittings",
+    "timestamp": "2025-06-18T11:49:39.842048"
+  },
+  {
+    "transaction_id": "dcca172d-755c-4697-9132-02b4f0107af4",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 5000000,
+    "category": "Professional Services",
+    "milestone": "Interior Finishing",
+    "description": "Interior design, electrical, plumbing",
+    "timestamp": "2025-06-18T11:49:39.844014"
+  },
+  {
+    "transaction_id": "1b2687e1-bc91-41cf-ab1a-efb30e8ba835",
+    "type": "TOKEN_SPENDING",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "amount": 2000000,
+    "category": "Equipment",
+    "milestone": "Interior Finishing",
+    "description": "Specialized finishing equipment",
+    "timestamp": "2025-06-18T11:49:39.845890"
+  },
+  {
+    "transaction_id": "29401d13-7d3f-4049-aea5-1acbaa448f6f",
+    "type": "MILESTONE_VERIFICATION",
+    "tender_id": "T001",
+    "milestone": "Interior Finishing",
+    "quality_score": 88,
+    "passed": true,
+    "timestamp": "2025-06-18T11:49:39.847856"
+  },
+  {
+    "transaction_id": "b2ba732a-1648-47e3-b19b-bab88fda599d",
+    "type": "TOKEN_REDEMPTION",
+    "tender_id": "T001",
+    "contractor_id": "C001",
+    "tokens_redeemed": "0",
+    "cash_value": 0.0,
+    "bonus_multiplier": 1.0833333333333333,
+    "average_quality_score": 88.33333333333333,
+    "timestamp": "2025-06-18T11:49:39.850353"
   }
 ]
