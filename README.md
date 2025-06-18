@@ -168,7 +168,7 @@ The system generates comprehensive visualizations:
 - Quality verification required for redemption
 - Unused tokens returned to treasury
 
-## 🏛️ Implementation Roadmap
+## 🏛️ Implementation Roadmap (Should it be implemented)
 
 ### Phase 1: Pilot Program
 - Select 3-5 municipalities for testing
@@ -238,7 +238,4 @@ This prototype is for **demonstration purposes only**. Implementation would requ
 - Enhanced government accountability
 
 ---
-
-**"Building a more transparent and accountable South Africa, one token at a time."**
-
 *This project is inspired by the need for innovative solutions to governance challenges in South Africa and represents a commitment to civic technology that serves the public interest.*
