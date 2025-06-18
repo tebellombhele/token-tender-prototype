@@ -1,0 +1,33 @@
+# Token-Based Tendering System Requirements
+# Core packages for data processing and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Enhanced data processing
+openpyxl>=3.0.0  # For Excel file support
+xlsxwriter>=3.0.0  # For Excel output
+
+# Optional: Advanced visualization
+plotly>=5.0.0  # Interactive plots
+bokeh>=2.4.0   # Web-based visualization
+
+# Optional: Web framework (for future web interface)
+flask>=2.0.0
+fastapi>=0.70.0
+
+# Development and testing
+pytest>=6.0.0
+black>=22.0.0  # Code formatting
+flake8>=4.0.0  # Linting
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0

@@ -1,0 +1,6 @@
+contractor_id,company_name,registration_number,contact_person,email,phone,address,specialization,experience_years,previous_projects,rating
+C001,Ubuntu Construction Ltd,1995/123456/07,Themba Mthembu,t.mthembu@ubuntu-construction.co.za,+27 13 555 0101,123 Commissioner Street Johannesburg,General Construction;Civil Engineering,15,Sandton Convention Centre;OR Tambo Upgrades,4.2
+C002,Proudly SA Builders,2005/789012/07,Sarah van der Merwe,s.vandermerwe@proudlysa.co.za,+27 29 555 0202,45 Long Street Cape Town,Residential Construction;Commercial Buildings,12,V&A Waterfront Projects;Cape Town Stadium Maintenance,4.5
+C003,Coastal Engineering Solutions,2000/345678/07,Raj Patel,r.patel@coastal-eng.co.za,+27 31 555 0303,78 Marine Parade Durban,Infrastructure;Marine Engineering,18,Durban Harbour Expansion;King Shaka Airport,4.7
+C004,Gauteng General Contractors,1998/901234/07,Nomsa Khumalo,n.khumalo@gauteng-gc.co.za,+27 17 555 0404,56 Church Street Pretoria,Educational Facilities;Government Buildings,20,Union Buildings Restoration;University of Pretoria Campus,4.0
+C005,Eastern Cape Development Co,2010/567890/07,Michael Johnson,m.johnson@ec-development.co.za,+27 41 555 0505,12 Russell Road Port Elizabeth,Healthcare Facilities;Mixed Use Development,8,Livingstone Hospital Upgrades;Nelson Mandela University,3.8
