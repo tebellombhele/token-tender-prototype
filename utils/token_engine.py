@@ -1,7 +1,7 @@
 """
 Token-based Tendering System Engine
 Core functionality for managing tokens in government procurement
-Author: Tebello
+Author: Tebello 
 """
 
 import json
